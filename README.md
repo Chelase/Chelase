@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffcc,100:ff00ff&height=200&section=header&text=CHLASE&fontSize=80&fontColor=ffffff&animation=true&fontAlignY=35&desc=%E5%BC%80%E5%8F%91%E8%80%85%20|%20%E5%BB%BA%E9%80%A0%E8%80%85%20|%20%E6%A2%A6%E6%83%B3%E5%AE%B6&descSize=20&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:00d4ff,100:0066ff&height=200&section=header&text=CHLASE&fontSize=80&fontColor=ffffff&animation=true&fontAlignY=35&desc=%E5%BC%80%E5%8F%91%E8%80%85%20|%20%E5%BB%BA%E9%80%A0%E8%80%85%20|%20%E6%A2%A6%E6%83%B3%E5%AE%B6&descSize=20&descAlignY=55" />
 
 </div>
 
 <div align="center">
 
-<!-- 霓虹徽章 -->
-<img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%9C%A8%E7%BA%BF-00ffcc?style=flat-square&labelColor=0d1117&color=00ffcc" />
-<img src="https://img.shields.io/badge/%E6%A8%A1%E5%BC%8F-%E6%B4%BB%E8%B7%83-ff00ff?style=flat-square&labelColor=0d1117&color=ff00ff" />
-<img src="https://img.shields.io/badge/%E7%89%88%E6%9C%AC-2.0-00dfff?style=flat-square&labelColor=0d1117&color=00dfff" />
+<!-- 蓝色霓虹徽章 -->
+<img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%9C%A8%E7%BA%BF-00d4ff?style=flat-square&labelColor=0a1628&color=00d4ff" />
+<img src="https://img.shields.io/badge/%E6%A8%A1%E5%BC%8F-%E6%B4%BB%E8%B7%83-0066ff?style=flat-square&labelColor=0a1628&color=0066ff" />
+<img src="https://img.shields.io/badge/%E7%89%88%E6%9C%AC-2.0-00bfff?style=flat-square&labelColor=0a1628&color=00bfff" />
 
 </div>
 
@@ -93,13 +93,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=0a1628" />
 
 </div>
 
@@ -109,8 +109,8 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chelase&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=ff00ff&text_color=c9d1d9&border_color=21262d&hide_border=true&locale=zh-cn" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelase&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&border_color=21262d&hide_border=true&locale=zh-cn" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chelase&show_icons=true&theme=blue_navy&bg_color=0a1628&title_color=00d4ff&icon_color=0066ff&text_color=c9d1d9&border_color=1a3a5c&hide_border=true&locale=zh-cn" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelase&layout=compact&theme=blue_navy&bg_color=0a1628&title_color=00d4ff&text_color=c9d1d9&border_color=1a3a5c&hide_border=true&locale=zh-cn" />
 
 </div>
 
@@ -143,7 +143,7 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=0d1117" />](https://github.com/Chelase)
+[<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=0a1628" />](https://github.com/Chelase)
 
 </div>
 
@@ -173,8 +173,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff00ff,100:00ffcc&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0066ff,100:00d4ff&height=100&section=footer" />
 
-<sub>用 💚 构建 · Chelase · 由梦想和咖啡驱动</sub>
+<sub>用 💙 构建 · Chelase · 由梦想和咖啡驱动</sub>
 
 </div>
