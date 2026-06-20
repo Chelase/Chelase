@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffcc,100:ff00ff&height=200&section=header&text=CHLASE&fontSize=80&fontColor=ffffff&animation=true&fontAlignY=35&desc=DEVELOPER%20|%20BUILDER%20|%20DREAMER&descSize=20&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffcc,100:ff00ff&height=200&section=header&text=CHLASE&fontSize=80&fontColor=ffffff&animation=true&fontAlignY=35&desc=%E5%BC%80%E5%8F%91%E8%80%85%20|%20%E5%BB%BA%E9%80%A0%E8%80%85%20|%20%E6%A2%A6%E6%83%B3%E5%AE%B6&descSize=20&descAlignY=55" />
 
 </div>
 
 <div align="center">
 
 <!-- 霓虹徽章 -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=flat-square&labelColor=0d1117&color=00ffcc" />
-<img src="https://img.shields.io/badge/MODE-ACTIVE-ff00ff?style=flat-square&labelColor=0d1117&color=ff00ff" />
-<img src="https://img.shields.io/badge/VERSION-2.0-00dfff?style=flat-square&labelColor=0d1117&color=00dfff" />
+<img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%9C%A8%E7%BA%BF-00ffcc?style=flat-square&labelColor=0d1117&color=00ffcc" />
+<img src="https://img.shields.io/badge/%E6%A8%A1%E5%BC%8F-%E6%B4%BB%E8%B7%83-ff00ff?style=flat-square&labelColor=0d1117&color=ff00ff" />
+<img src="https://img.shields.io/badge/%E7%89%88%E6%9C%AC-2.0-00dfff?style=flat-square&labelColor=0d1117&color=00dfff" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### `> INITIALIZING SYSTEM...`
+### `> 正在初始化系统...`
 
 ```
  ██████╗██╗  ██╗███████╗██╗      █████╗ ███████╗███████╗
@@ -32,42 +32,42 @@
 
 ---
 
-### `> SYSTEM.INFO`
+### `> 系统信息`
 
 <div align="center">
 
 ```yaml
-identity:
-  name: "Chelase"
-  role: "Full-Stack Developer"
-  location: "Earth"
-  status: "Building the future"
+身份:
+  名称: "Chelase"
+  角色: "全栈开发者"
+  位置: "地球"
+  状态: "构建未来中"
 
-core_modules:
-  - name: "JavaScript"
-    level: 95
-    status: "ACTIVE"
-  - name: "TypeScript"
-    level: 90
-    status: "ACTIVE"
-  - name: "Node.js"
-    level: 92
-    status: "ACTIVE"
-  - name: "Electron"
-    level: 88
-    status: "ACTIVE"
-  - name: "Python"
-    level: 85
-    status: "ACTIVE"
+核心技能:
+  - 名称: "JavaScript"
+    等级: 95
+    状态: "活跃"
+  - 名称: "TypeScript"
+    等级: 90
+    状态: "活跃"
+  - 名称: "Node.js"
+    等级: 92
+    状态: "活跃"
+  - 名称: "Electron"
+    等级: 88
+    状态: "活跃"
+  - 名称: "Python"
+    等级: 85
+    状态: "活跃"
 
-system_message: "All systems operational. Ready to build."
+系统消息: "所有系统运行正常，随时可以开始构建。"
 ```
 
 </div>
 
 ---
 
-### `> ACTIVE_PROJECTS`
+### `> 活跃项目`
 
 <div align="center">
 
@@ -75,12 +75,12 @@ system_message: "All systems operational. Ready to build."
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  ████████████████████████████████░░░░░░░░  FANBOX-WIN      │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  AI Coding Cockpit│
-│  75% COMPLETE                             Multi-platform   │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  AI 编程驾驶舱    │
+│  进度 75%                                 跨平台桌面应用    │
 │                                                             │
 │  ████████████████████████████████████████  PROJECT-RULE    │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Agent Rule System│
-│  100% COMPLETE                            Automation       │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Agent 规则系统   │
+│  进度 100%                                自动化协作        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -89,49 +89,49 @@ system_message: "All systems operational. Ready to build."
 
 ---
 
-### `> TECH_STACK`
+### `> 技术栈`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-ELECTRON-47848F?style=for-the-badge&logo=electron&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=fff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=0d1117" />
 
 </div>
 
 ---
 
-### `> SYSTEM_METRICS`
+### `> 系统指标`
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chelase&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=ff00ff&text_color=c9d1d9&border_color=21262d&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelase&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&border_color=21262d&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chelase&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=ff00ff&text_color=c9d1d9&border_color=21262d&hide_border=true&locale=zh-cn" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelase&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&border_color=21262d&hide_border=true&locale=zh-cn" />
 
 </div>
 
 ---
 
-### `> PROCESS.FLOW`
+### `> 工作流程`
 
 <div align="center">
 
 ```
      ┌─────────┐         ┌─────────┐         ┌─────────┐
-     │  THINK  │────────>│  BUILD  │────────>│   SHIP  │
+     │  思考   │────────>│  构建   │────────>│  发布   │
      └─────────┘         └─────────┘         └─────────┘
           │                   │                   │
           v                   v                   v
      ┌─────────┐         ┌─────────┐         ┌─────────┐
-     │ ANALYZE │<────────│  TEST  │<────────│ REPEAT  │
+     │  分析   │<────────│  测试   │<────────│  迭代   │
      └─────────┘         └─────────┘         └─────────┘
 
      ════════════════════════════════════════════════════
-     "First, solve the problem. Then, write the code."
+     "先解决问题，再写代码。"
      ════════════════════════════════════════════════════
 ```
 
@@ -139,11 +139,11 @@ system_message: "All systems operational. Ready to build."
 
 ---
 
-### `> CONNECT`
+### `> 联系方式`
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=0d1117" />](https://github.com/Chelase)
+[<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=0d1117" />](https://github.com/Chelase)
 
 </div>
 
@@ -151,18 +151,18 @@ system_message: "All systems operational. Ready to build."
 
 <div align="center">
 
-### `> SYSTEM_STATUS`
+### `> 系统状态`
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║   [■] CORE SYSTEMS        ONLINE                             ║
-║   [■] NEURAL INTERFACE    ACTIVE                             ║
-║   [■] QUANTUM PROCESSOR   OPTIMAL                            ║
-║   [■] MEMORY BANKS        98% FREE                           ║
+║   [■] 核心系统              在线                              ║
+║   [■] 神经接口              活跃                              ║
+║   [■] 量子处理器            最佳                              ║
+║   [■] 内存银行              剩余 98%                          ║
 ║                                                               ║
-║   LAST BOOT: 2026-06-20 15:30:00 UTC                         ║
-║   UPTIME: 99.99%                                              ║
+║   上次启动: 2026-06-20 15:30:00 UTC                           ║
+║   运行时间: 99.99%                                            ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -175,6 +175,6 @@ system_message: "All systems operational. Ready to build."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff00ff,100:00ffcc&height=100&section=footer" />
 
-<sub>Built with 💚 by Chelase · Powered by dreams and caffeine</sub>
+<sub>用 💚 构建 · Chelase · 由梦想和咖啡驱动</sub>
 
 </div>
